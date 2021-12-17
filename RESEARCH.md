@@ -2,7 +2,7 @@
 layout: page
 title: "RESEARCH"
 permalink: /research/
-layout: default.html
+layout: default
 ---
 ## Under Construction
 
