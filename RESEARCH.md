@@ -2,6 +2,7 @@
 layout: page
 title: "RESEARCH"
 permalink: /research/
+theme: jekyll-theme-minimal
 ---
 ## Under Construction
 
