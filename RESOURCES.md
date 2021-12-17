@@ -4,11 +4,9 @@ title: "Resources"
 permalink: /resources/
 layout: "default"
 ---
-## Under Construction
+## Resources
 
-I am a Postdoctoral Research Fellow at the University of Texas Health Science Center at Houston, working in the lab of Nitin Tandon. My research uses human intracranial recording and stimulation in large patient cohorts to create spatiotemporal maps of cognitive function relating to reading and, more broadly, the interfaces between visual cortex and the language and memory networks.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gABVHQTcC-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Coming soon...
 
 {% comment %}
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
