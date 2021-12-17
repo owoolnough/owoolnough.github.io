@@ -1,5 +1,7 @@
 ---
-title: "Oscar Woolnough"
+layout: page
+title: "Home"
+layout: "default"
 ---
 
 ## Under Construction
