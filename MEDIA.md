@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Media"
+permalink: /media/
+layout: "default"
+---
+
 ## Media
 
 [Texas man plays piano during brain surgery in Houston](https://www.khou.com/article/news/local/texas-man-plays-piano-during-brain-surgery-houston/285-066da5cf-6136-481b-a605-2220a503c6b8), _KHOU, August 22 2021_
