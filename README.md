@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a Postdoctoral Research Fellow at the University of Texas Health Science Center at Houston, working in the lab of Nitin Tandon. My research uses human intracranial recording and stimulation in large patient cohorts to create spatiotemporal maps of cognitive function relating to reading and, more broadly, the interfaces between visual cortex and the language and memory networks.
+I am a Postdoctoral Research Fellow at the University of Texas Health Science Center at Houston, working in the lab of Nitin Tandon. My research uses human intracranial recording and stimulation in large patient cohorts to create spatiotemporal maps of cognitive function relating to reading and, more broadly, the interfaces between visual cortex and the language and memory networks. Outside of the lab I'm a baker and competitive fencer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gABVHQTcC-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

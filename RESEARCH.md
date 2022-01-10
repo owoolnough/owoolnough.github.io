@@ -17,7 +17,7 @@ To recognise a word we must convert from a combination of visual lines on the re
 Reading a sentence requires an interface between the visual and language systems. The individual meanings and syntactic organisation of words when they are combined into phrases and sentences allows us to derive more complex meaning. How do we integrate information across these words to form higher meaning? How do we abstract out from the meanings of individual words to the meaning of an entire sentence? How do we build hierarchical structures from these word combinations? 
 
 ### Word Learning
-Even as adults we constantly add new words into our vocabulary meaning our reading network must be plastic, to enable us to learn new words. What is the progression of neural changes that occur as we incorporate new words into our vocabulary? How do we create new associations between novel words and their sounds and meanings? 
+Even as adults we constantly add new words into our vocabulary, meaning our reading network must be plastic to enable us to learn new visual word forms. What is the progression of neural changes that occur as we incorporate new words into our vocabulary? How do we create new associations between novel words and their sounds and meanings? 
 
 
 
