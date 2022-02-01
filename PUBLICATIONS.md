@@ -17,6 +17,10 @@ MJ McCarty, O Woolnough, JC Mosher, J Seymour, N Tandon (2021) The Listening Zon
 
 E Murphy, O Woolnough, PS Rollo, ZJ Roccaforte, K Segaert, P Hagoort, N Tandon (2021) Minimal phrase composition revealed by intracranial recordings. bioRxiv [[DOI]](https://doi.org/10.1101/2021.04.30.442171)
 
+### 2022
+O Woolnough, CM Kadipasaoglu, CR Conner, KJ Forseth, PS Rollo, MJ Rollo, VG Baboyan, N Tandon (2022) Dataset of human intracranial recordings during famous landmark identification. Scientific Data [[DOI]](https://doi.org/10.1038/s41597-022-01125-8) [[Dataset]](https://doi.org/10.18120/vn47-d626)
+
+
 ### 2021
 O Woolnough, C Donos, PS Rollo, KJ Forseth, Y Lakretz, NE Crone, S Fischer-Baum, S Dehaene, N Tandon (2021) Spatiotemporal dynamics of orthographic and lexical processing in the ventral visual pathway. Nature Human Behaviour [[DOI]](https://doi.org/10.1038/s41562-020-00982-w) [[Preprint]](https://doi.org/10.1101/2020.02.18.955039)
 
