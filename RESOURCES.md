@@ -11,7 +11,7 @@ layout: "default"
 ## Houston Intracranial Landmark Location Identification Dataset
 This dataset contains intracranial reocrdings from 50 individuals during a famous landmark location naming task (More to follow...)
 
-['[Data Descriptor]'](https://doi.org/10.1038/s41597-022-01125-8)    ['[Dataset]'](https://doi.org/10.18120/vn47-d626)
+[[Data Descriptor]](https://doi.org/10.1038/s41597-022-01125-8)    [[Dataset]](https://doi.org/10.18120/vn47-d626)
 
 {% comment %}
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
