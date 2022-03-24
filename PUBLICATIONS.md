@@ -9,13 +9,13 @@ layout: "default"
 ### Preprints
 O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2021) A Spatiotemporal Map of Reading Aloud. bioRxiv [[DOI]](https://doi.org/10.1101/2021.05.23.445307)
 
-O Woolnough, KM Snyder, CW Morse, MJ McCarty, S Lhatoo, N Tandon (2021) Intraoperative localization and preservation of reading in ventral occipitotemporal cortex. medRxiv [[DOI]](https://doi.org/10.1101/2021.11.11.21266202)
-
 O Woolnough, KJ Forseth, PS Rollo, ZJ Roccaforte, N Tandon (2021) Event-Related Phase Synchronization Propagates Rapidly across Human Ventral Visual Cortex. bioRxiv [[DOI]](https://doi.org/10.1101/2021.08.02.454804)
 
-MJ McCarty, O Woolnough, JC Mosher, J Seymour, N Tandon (2021) The Listening Zone of Human Electrocorticographic Field Potential Recordings. bioRxiv [[DOI]](https://doi.org/10.1101/2021.10.22.465519)
-
 ### 2022
+O Woolnough, KM Snyder, CW Morse, MJ McCarty, S Lhatoo, N Tandon (2021) Intraoperative localization and preservation of reading in ventral occipitotemporal cortex. Journal of Neurosurgery (in press) [[Preprint]](https://doi.org/10.1101/2021.11.11.21266202)
+
+MJ McCarty, O Woolnough, JC Mosher, J Seymour, N Tandon (2021) The Listening Zone of Human Electrocorticographic Field Potential Recordings. eNeuro (in press) [[Preprint]](https://doi.org/10.1101/2021.10.22.465519)
+
 E Murphy, O Woolnough, PS Rollo, ZJ Roccaforte, K Segaert, P Hagoort, N Tandon (2022) Minimal phrase composition revealed by intracranial recordings. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.1575-21.2022) [[Preprint]](https://doi.org/10.1101/2021.04.30.442171)
 
 O Woolnough, CM Kadipasaoglu, CR Conner, KJ Forseth, PS Rollo, MJ Rollo, VG Baboyan, N Tandon (2022) Dataset of human intracranial recordings during famous landmark identification. Scientific Data [[DOI]](https://doi.org/10.1038/s41597-022-01125-8) [[Dataset]](https://doi.org/10.18120/vn47-d626)
