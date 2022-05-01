@@ -10,9 +10,9 @@ layout: "default"
 O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2021) A Spatiotemporal Map of Reading Aloud. bioRxiv [[DOI]](https://doi.org/10.1101/2021.05.23.445307)
 
 ### 2022
-O Woolnough, KJ Forseth, PS Rollo, ZJ Roccaforte, N Tandon (2022) Event-Related Phase Synchronization Propagates Rapidly across Human Ventral Visual Cortex. NeuroImage (in press) [[Preprint]](https://doi.org/10.1101/2021.08.02.454804)
+O Woolnough, KJ Forseth, PS Rollo, ZJ Roccaforte, N Tandon (2022) Event-Related Phase Synchronization Propagates Rapidly across Human Ventral Visual Cortex. NeuroImage [[DOI]](https://doi.org/10.1016/j.neuroimage.2022.119262) [[Preprint]](https://doi.org/10.1101/2021.08.02.454804)
 
-O Woolnough, KM Snyder, CW Morse, MJ McCarty, S Lhatoo, N Tandon (2022) Intraoperative localization and preservation of reading in ventral occipitotemporal cortex. Journal of Neurosurgery [[DOI]](https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2022.2.JNS22170/article-10.3171-2022.2.JNS22170.xml) [[Preprint]](https://doi.org/10.1101/2021.11.11.21266202)
+O Woolnough, KM Snyder, CW Morse, MJ McCarty, S Lhatoo, N Tandon (2022) Intraoperative localization and preservation of reading in ventral occipitotemporal cortex. Journal of Neurosurgery [[DOI]](https://doi.org/10.3171/2022.2.JNS22170) [[Preprint]](https://doi.org/10.1101/2021.11.11.21266202)
 
 MJ McCarty, O Woolnough, JC Mosher, J Seymour, N Tandon (2022) The Listening Zone of Human Electrocorticographic Field Potential Recordings. eNeuro [[DOI]](https://doi.org/10.1523/ENEURO.0492-21.2022) [[Preprint]](https://doi.org/10.1101/2021.10.22.465519)
 
