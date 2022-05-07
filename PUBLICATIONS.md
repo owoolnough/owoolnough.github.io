@@ -6,10 +6,9 @@ layout: "default"
 ---
 ## Publications
 
-### Preprints
-O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2021) A Spatiotemporal Map of Reading Aloud. bioRxiv [[DOI]](https://doi.org/10.1101/2021.05.23.445307)
-
 ### 2022
+O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2022) A Spatiotemporal Map of Reading Aloud. Journal of Neuroscience (in press) [[Preprint]](https://doi.org/10.1101/2021.05.23.445307)
+
 O Woolnough, KJ Forseth, PS Rollo, ZJ Roccaforte, N Tandon (2022) Event-Related Phase Synchronization Propagates Rapidly across Human Ventral Visual Cortex. NeuroImage [[DOI]](https://doi.org/10.1016/j.neuroimage.2022.119262) [[Preprint]](https://doi.org/10.1101/2021.08.02.454804)
 
 O Woolnough, KM Snyder, CW Morse, MJ McCarty, S Lhatoo, N Tandon (2022) Intraoperative localization and preservation of reading in ventral occipitotemporal cortex. Journal of Neurosurgery [[DOI]](https://doi.org/10.3171/2022.2.JNS22170) [[Preprint]](https://doi.org/10.1101/2021.11.11.21266202)
@@ -35,6 +34,10 @@ O Woolnough, KJ Forseth, PS Rollo, N Tandon (2019) Uncovering the functional ana
 
 
 {% comment %}
+
+### Preprints
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
