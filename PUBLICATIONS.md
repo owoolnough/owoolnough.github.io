@@ -7,7 +7,7 @@ layout: "default"
 ## Publications
 
 ### 2022
-O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2022) A Spatiotemporal Map of Reading Aloud. Journal of Neuroscience (in press) [[Preprint]](https://doi.org/10.1101/2021.05.23.445307)
+O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2022) A Spatiotemporal Map of Reading Aloud. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.2324-21.2022) [[Preprint]](https://doi.org/10.1101/2021.05.23.445307)
 
 O Woolnough, KJ Forseth, PS Rollo, ZJ Roccaforte, N Tandon (2022) Event-Related Phase Synchronization Propagates Rapidly across Human Ventral Visual Cortex. NeuroImage [[DOI]](https://doi.org/10.1016/j.neuroimage.2022.119262) [[Preprint]](https://doi.org/10.1101/2021.08.02.454804)
 
