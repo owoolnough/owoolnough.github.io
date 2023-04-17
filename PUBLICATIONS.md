@@ -6,6 +6,9 @@ layout: "default"
 ---
 ## Publications
 
+### 2023
+O Woolnough, C Donos, E Murphy, PS Rollo, ZJ Roccaforte, S Dehaene, N Tandon (2023) Spatiotemporally distributed frontotemporal networks for sentence reading. Proceedings of the National Academy of Sciences [[DOI]](https://www.pnas.org/doi/10.1073/pnas.2300252120)
+
 ### 2022
 O Woolnough, C Donos, A Curtis, PS Rollo, ZJ Roccaforte, S Dehaene, S Fischer-Baum, N Tandon (2022) A Spatiotemporal Map of Reading Aloud. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.2324-21.2022) [[Preprint]](https://doi.org/10.1101/2021.05.23.445307)
 
