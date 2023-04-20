@@ -7,6 +7,8 @@ layout: "default"
 
 ## Media
 
+[اكتشاف مذهل.. هذا ما تفعله القراءة في أدمغتنا (An amazing discovery.. This is what reading does to our brains)](https://www.skynewsarabia.com/technology/1614347-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D9%85%D8%B0%D9%87%D9%84-%D9%87%D8%B0%D8%A7-%D8%AA%D9%81%D8%B9%D9%84%D9%87-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%94%D8%AF%D9%85%D8%BA%D8%AA%D9%86%D8%A7), _Sky News Arabia, April 19 2023_
+
 [The role of the 'Jabberwocky' in the latest research.](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018886709/science-who-s-at-highest-risk-of-the-flu-penguin-poo-s-vital-role), _RNZ, April 19 2023_
 
 [Texas man plays piano during brain surgery in Houston](https://www.khou.com/article/news/local/texas-man-plays-piano-during-brain-surgery-houston/285-066da5cf-6136-481b-a605-2220a503c6b8), _KHOU, August 22 2021_
