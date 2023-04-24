@@ -7,6 +7,8 @@ layout: "default"
 
 ## Media
 
+[This Is Your Brain on Books: Science Reveals Secrets of Reading](https://www.usnews.com/news/health-news/articles/2023-04-24/this-is-your-brain-on-books-science-reveals-secrets-of-reading), _US News and World Report, April 24 2023_
+
 [اكتشاف مذهل.. هذا ما تفعله القراءة في أدمغتنا (An amazing discovery.. This is what reading does to our brains)](https://www.skynewsarabia.com/technology/1614347-اكتشاف-مذهل-هذا-تفعله-القراءة-أدمغتنا), _Sky News Arabia, April 19 2023_
 
 [The role of the 'Jabberwocky' in the latest research.](https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018886709/science-who-s-at-highest-risk-of-the-flu-penguin-poo-s-vital-role), _RNZ, April 19 2023_
