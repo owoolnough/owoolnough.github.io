@@ -7,6 +7,8 @@ layout: "default"
 
 ## Media
 
+[You Are What You Read](https://www.iheart.com/podcast/1248-fifty-plus-52808599/episode/you-are-what-you-read-113830406/?position=639), _KPRC AM 950, April 25 2023_
+
 [This Is Your Brain on Books: Science Reveals Secrets of Reading](https://www.usnews.com/news/health-news/articles/2023-04-24/this-is-your-brain-on-books-science-reveals-secrets-of-reading), _US News and World Report, April 24 2023_
 
 [اكتشاف مذهل.. هذا ما تفعله القراءة في أدمغتنا (An amazing discovery.. This is what reading does to our brains)](https://www.skynewsarabia.com/technology/1614347-اكتشاف-مذهل-هذا-تفعله-القراءة-أدمغتنا), _Sky News Arabia, April 19 2023_
