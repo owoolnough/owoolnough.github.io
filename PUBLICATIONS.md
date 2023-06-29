@@ -7,6 +7,9 @@ layout: "default"
 ## Publications
 
 ### 2023
+
+MJ McCarty, E Murphy, X Scherschligt, O Woolnough, CW Morse, K Snyder, BZ Mahon, N Tandon (2023) Intraoperative cortical localization of music and language reveals signatures of structural complexity in posterior temporal cortex. iScience [[DOI]](https://doi.org/10.1016/j.isci.2023.107223)
+
 O Woolnough, C Donos, E Murphy, PS Rollo, ZJ Roccaforte, S Dehaene, N Tandon (2023) Spatiotemporally distributed frontotemporal networks for sentence reading. Proceedings of the National Academy of Sciences [[DOI]](https://www.pnas.org/doi/10.1073/pnas.2300252120)
 
 ### 2022
