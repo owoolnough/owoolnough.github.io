@@ -8,8 +8,8 @@ The uniquely human abilities to read and write are essential skills in modern li
 - Cortical language networks
 
 ### Education	
-PhD Neuroscience, University of Nottingham, 2017
-MSc Biomedial Engineering, Imperial College London, 2013
-BEng Medical Engineering, Queen Mary, University of London, 2012
+- PhD Neuroscience, University of Nottingham, 2017
+- MSc Biomedial Engineering, Imperial College London, 2013
+- BEng Medical Engineering, Queen Mary, University of London, 2012
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gABVHQTcC-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
