@@ -10,7 +10,7 @@ layout: "default"
 
 Y Modiano, O Woolnough, R McCormack, K Snyder, E Wheeler, S Lhatoo, N Lacuey, S Pati, K Harris, J Gavvala, J Johnson, N Tandon (2024) Involved but not essential: Cognitive activity in periventricular nodules and neuropsychological outcomes following their ablation. Journal of Neurosurgery (in press)
 
-L Bullock, KJ Forseth, O Woolnough, P Rollo, N Tandon (2024) Supplementary motor area in speech initiation: a large-scale intracranial EEG evaluation of stereotyped word articulation. iScience (in press) [[Preprint]](https://doi.org/10.1101/2023.04.04.535557)
+L Bullock, KJ Forseth, O Woolnough, P Rollo, N Tandon (2024) Supplementary motor area in speech initiation: a large-scale intracranial EEG evaluation of stereotyped word articulation. iScience [[DOI]](https://doi.org/10.1016/j.isci.2024.111531) [[Preprint]](https://doi.org/10.1101/2023.04.04.535557)
 
 O Woolnough, N Tandon (2024) Dissociation of reading and naming in ventral occipitotemporal cortex. Brain [[DOI]](https://doi.org/10.1093/brain/awae027)
 
