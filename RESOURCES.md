@@ -15,3 +15,8 @@ This dataset contains intracranial recordings from 50 individuals during a famou
 This MATLAB toolbox calculates information theoretic statistics of Grapheme-Phoneme correspondences
 
 [[GitHub]](https://github.com/owoolnough/GPOpen)
+
+### Memorability of Novel Words
+Dataset of memorability of 2,100 pseudowords, based on behavioural data from 1,804 participants
+
+[[OSF]](https://osf.io/dfvjy/)
