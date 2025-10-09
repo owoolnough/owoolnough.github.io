@@ -8,6 +8,8 @@ layout: "default"
 
 ### 2025
 
+A Stasenko, Y Modiano, O Woolnough, E Kaestner, J Rodriguez, R Cho, G Flores, A Reyes, JJ Shih, T Gholipour, N Tandon, CR McDonald (2025) Assessing naming and verbal memory in bilingual epilepsy: Challenges and insights for surgical planning. Epilepsia [[DOI]](http://doi.org/10.1111/epi.18662)
+
 O Woolnough, N Tandon (2025) Memorability of novel words correlates with anterior fusiform activity during reading. Nature Communications [[DOI]](https://doi.org/10.1038/s41467-025-57220-y)
 
 Y Modiano, O Woolnough, R McCormack, K Snyder, E Wheeler, S Lhatoo, N Lacuey, S Pati, K Harris, J Gavvala, J Johnson, N Tandon (2025) Involved but not essential: Cognitive activity in periventricular nodules and neuropsychological outcomes following their ablation. Journal of Neurosurgery [[DOI]](https://doi.org/10.3171/2024.10.JNS241541)
