@@ -6,6 +6,10 @@ layout: "default"
 ---
 ## Publications
 
+### 2026
+
+O Woolnough, T Thomas, KM Snyder, E Wheeler, J Gavvala, N Tandon (2026) Medial pulvinar nucleus as a causal hub for heteromodal naming. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.1872-25.2025)
+
 ### 2025
 
 A Stasenko, Y Modiano, O Woolnough, E Kaestner, J Rodriguez, R Cho, G Flores, A Reyes, JJ Shih, T Gholipour, N Tandon, CR McDonald (2025) Assessing naming and verbal memory in bilingual epilepsy: Challenges and insights for surgical planning. Epilepsia [[DOI]](http://doi.org/10.1111/epi.18662)
