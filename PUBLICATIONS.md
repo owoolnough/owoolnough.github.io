@@ -8,6 +8,8 @@ layout: "default"
 
 ### 2026
 
+E Murphy¶, O Woolnough¶, CW Morse, X Scherschligt, N Tandon (2026) Frontotemporal network interactions causally support rapid concreteness judgments. PLoS Biology [[DOI]](https://doi.org/10.1371/journal.pbio.3003723)
+
 O Woolnough, T Thomas, KM Snyder, E Wheeler, J Gavvala, N Tandon (2026) Medial pulvinar nucleus as a causal hub for heteromodal naming. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.1872-25.2025)
 
 ### 2025
@@ -26,7 +28,7 @@ O Woolnough, N Tandon (2024) Dissociation of reading and naming in ventral occip
 
 ### 2023
 
-MJ McCarty, E Murphy, X Scherschligt, O Woolnough, CW Morse, K Snyder, BZ Mahon, N Tandon (2023) Intraoperative cortical localization of music and language reveals signatures of structural complexity in posterior temporal cortex. iScience [[DOI]](https://doi.org/10.1016/j.isci.2023.107223)
+MJ McCarty¶, E Murphy¶, X Scherschligt, O Woolnough, CW Morse, K Snyder, BZ Mahon, N Tandon (2023) Intraoperative cortical localization of music and language reveals signatures of structural complexity in posterior temporal cortex. iScience [[DOI]](https://doi.org/10.1016/j.isci.2023.107223)
 
 O Woolnough, C Donos, E Murphy, PS Rollo, ZJ Roccaforte, S Dehaene, N Tandon (2023) Spatiotemporally distributed frontotemporal networks for sentence reading. Proceedings of the National Academy of Sciences [[DOI]](https://doi.org/10.1073/pnas.2300252120)
 
@@ -55,7 +57,7 @@ PS Rollo, MJ Rollo, P Zhu, O Woolnough, N Tandon (2020) Oblique trajectory angle
 O Woolnough, KJ Forseth, PS Rollo, N Tandon (2019) Uncovering the functional anatomy of the human insula during speech. eLife [[DOI]](https://doi.org/10.7554/eLife.53086)
 
 
-
+¶ Equal contribution
 
 {% comment %}
 
