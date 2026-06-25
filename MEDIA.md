@@ -7,6 +7,8 @@ layout: "default"
 
 ## Media
 
+[Society for the Neurobiology of Language Early Career Award](https://2026.neurolang.org/early-career-award-recipient/), _SNL, June 24 2026_
+
 [This Is Your Brain On Words](https://www.sciencefriday.com/segments/how-does-your-brain-read/), _Science Friday, April 28 2023_
 
 [You Are What You Read](https://www.iheart.com/podcast/1248-fifty-plus-52808599/episode/you-are-what-you-read-113830406/?position=639), _KPRC AM 950, April 25 2023_
