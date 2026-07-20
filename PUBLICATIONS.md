@@ -8,6 +8,8 @@ layout: "default"
 
 ### 2026
 
+O Woolnough, E Murphy, S Dehaene, N Tandon (2026) Low-frequency modulations bridge the Language and Default Mode networks. Progress in Neurobiology
+
 E Murphy¶, O Woolnough¶, CW Morse, X Scherschligt, N Tandon (2026) Frontotemporal network interactions causally support rapid concreteness judgments during reading. PLoS Biology [[DOI]](https://doi.org/10.1371/journal.pbio.3003723)
 
 O Woolnough, T Thomas, KM Snyder, E Wheeler, J Gavvala, N Tandon (2026) Medial pulvinar nucleus as a causal hub for heteromodal naming. Journal of Neuroscience [[DOI]](https://doi.org/10.1523/JNEUROSCI.1872-25.2025)
