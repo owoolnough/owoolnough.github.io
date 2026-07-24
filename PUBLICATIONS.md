@@ -8,7 +8,7 @@ layout: "default"
 
 ### 2026
 
-O Woolnough, E Murphy, S Dehaene, N Tandon (2026) Low-frequency modulations bridge the Language and Default Mode networks. Progress in Neurobiology
+O Woolnough, E Murphy, S Dehaene, N Tandon (2026) Low-frequency modulations bridge the Language and Default Mode networks. Progress in Neurobiology [[DOI]](https://doi.org/10.1016/j.pneurobio.2026.102944)
 
 E Murphy¶, O Woolnough¶, CW Morse, X Scherschligt, N Tandon (2026) Frontotemporal network interactions causally support rapid concreteness judgments during reading. PLoS Biology [[DOI]](https://doi.org/10.1371/journal.pbio.3003723)
 
